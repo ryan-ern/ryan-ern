@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-<img width="33%" src="https://github-readme-stats.vercel.app/api?username=ryan-ern&show_icons=true&locale=en" alt="ryan-ern" />
-<img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ern&show_icons=true&locale=en&layout=compact" alt="ryan-ern" />
-<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ern&" alt="ryan-ern" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ern&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ryan-ern" />
+<br><br><img src="https://github-readme-stats.vercel.app/api?username=ryan-ern&show_icons=true&locale=en&hide=issues,contrib&theme=tokyonight" alt="ryan-ern" />
+<br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ern&theme=tokyonight" alt="ryan-ern" /></p>
