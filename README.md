@@ -14,5 +14,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-ern&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ryan-ern" />
-<br><br><img src="https://github-readme-stats.vercel.app/api?username=ryan-ern&show_icons=true&locale=en&hide=issues,contrib&theme=tokyonight" alt="ryan-ern" />
-<br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ern&theme=tokyonight" alt="ryan-ern" /></p>
+<!-- <br><br><img src="https://github-readme-stats.vercel.app/api?username=ryan-ern&show_icons=true&locale=en&hide=issues,contrib&theme=tokyonight" alt="ryan-ern" /> -->
+<!-- <br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ern&theme=tokyonight" alt="ryan-ern" /></p> -->
